@@ -23,6 +23,7 @@ class divideRayout(object):
         self.block = []
         self.par = []
         self.line = []
+        self.allOfRayout = []
 
         # すべてのレイアウトを取得
         for l in contentOfTsv:
@@ -31,7 +32,8 @@ class divideRayout(object):
         
         # pageのみを取得
         for l in self.allOfRayout:
-            if(l[Label.block_num] == 0):
+            if(l[Label.block_num] == 
+               0):
                 self.page.append(l)
 
         # blockのみ取得

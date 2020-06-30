@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="main.py" />
+    <Compile Include="ocrResult.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="readTSV.py">
       <SubType>Code</SubType>
     </Compile>
@@ -36,10 +39,6 @@
   <ItemGroup>
     <Folder Include="result\" />
     <Folder Include="resource\" />
-    <Folder Include="result\line\" />
-    <Folder Include="result\block\" />
-    <Folder Include="result\par\" />
-    <Folder Include="result\page\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="resource\sample.jpg" />

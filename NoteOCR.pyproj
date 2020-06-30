@@ -11,6 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>NoteOCR</Name>
     <RootNamespace>NoteOCR</RootNamespace>
+    <InterpreterId>MSBuild|env3.7|$(MSBuildProjectFullPath)</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -28,13 +29,41 @@
     <Compile Include="readTSV.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="trimImage.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="result\" />
     <Folder Include="resource\" />
+    <Folder Include="result\line\" />
+    <Folder Include="result\block\" />
+    <Folder Include="result\par\" />
+    <Folder Include="result\page\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="resource\sample.jpg" />
     <Content Include="resource\sample.tsv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Interpreter Include="env3.7\">
+      <Id>env3.7</Id>
+      <Version>3.7</Version>
+      <Description>env3.7 (Python 3.7 (64-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X64</Architecture>
+    </Interpreter>
+    <Interpreter Include="env3.8\">
+      <Id>env3.8</Id>
+      <Version>3.8</Version>
+      <Description>env3.8 (Python 3.8 (64-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X64</Architecture>
+    </Interpreter>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

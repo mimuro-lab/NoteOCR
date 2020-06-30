@@ -7,7 +7,7 @@ class readTSV:
         self.filename = tsvFilePath
         # TSVファイルの中身（2次元リスト）
         self.contentOfTsv = []
-        with open("resource\sample.tsv", encoding='utf-8') as f:
+        with open(tsvFilePath, encoding='utf-8') as f:
             reader = csv.reader(f, delimiter='\t')
             for l in reader:
                 self.contentOfTsv.append(l)

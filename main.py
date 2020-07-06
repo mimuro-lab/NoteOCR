@@ -9,7 +9,6 @@ if __name__ == '__main__':
     inputImage = os.path.join("resource", "sample.PNG")
     imageName = os.path.splitext(os.path.basename(inputImage))[0]
     print(imageName)
-    
 
     outputFolder = os.path.join("result", imageName)
     os.makedirs(outputFolder, exist_ok=True)
@@ -36,9 +35,9 @@ if __name__ == '__main__':
     # 切り取り画像の設定
     trim = trimImage(inputImage)
 
-    trim.trimming(rayout.page, outputFolder, "page_")
-    trim.trimming(rayout.block, outputFolder, "block_")
-    trim.trimming(rayout.par, outputFolder, "par_")
+    #trim.trimming(rayout.page, outputFolder, "page_")
+    #trim.trimming(rayout.block, outputFolder, "block_")
+    #trim.trimming(rayout.par, outputFolder, "par_")
     trim.trimming(rayout.line, outputFolder, "line_")
 
 

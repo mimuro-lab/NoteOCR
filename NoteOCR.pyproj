@@ -39,6 +39,7 @@
   <ItemGroup>
     <Folder Include="result\" />
     <Folder Include="resource\" />
+    <Folder Include="result\sample\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="resource\sample.jpg" />

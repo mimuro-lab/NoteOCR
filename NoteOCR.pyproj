@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="divideContent.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="divideRayout.py">
       <SubType>Code</SubType>
     </Compile>

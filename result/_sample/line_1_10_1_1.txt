@@ -1,0 +1,2 @@
+Attime	of	writing.	raining	only	works	on	Linux	(macOS	almost	worksr	it	requires	minor	hacks	to	the	shel	
+76	90	68	77	55	86	96	90	92	77	66	66	28	91	92	95	90	33	

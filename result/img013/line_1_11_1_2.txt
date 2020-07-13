@@ -1,0 +1,4 @@
+Fl<|	1	|	
+0	0	17	
+\left[\begin{array}{ll}-2 & -1\end{array}\right]\left[\begin{array}{l}x \\ x\end{array}\right]=\left[\begin{array}{l}1 \\ 2\end{array}\right]
+0.95556640625

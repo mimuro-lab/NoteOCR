@@ -1,0 +1,37 @@
+{
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [
+        "is_inverted",
+        "is_not_math"
+    ],
+    "detection_map": {
+        "contains_chart": 0.0057,
+        "contains_diagram": 0.0098,
+        "contains_graph": 0.0079,
+        "contains_table": 0.0209,
+        "is_blank": 0.0574,
+        "is_inverted": 0.6065,
+        "is_not_math": 0.5038,
+        "is_printed": 0.1379
+    },
+    "error": "Content not found",
+    "error_info": {
+        "id": "image_no_content",
+        "message": "Content not found"
+    },
+    "position": {
+        "height": 142,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 10
+    },
+    "request_id": "33a2f5355f49fdb896fb332a3bb7dfd3"
+}

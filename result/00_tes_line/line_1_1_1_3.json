@@ -1,0 +1,37 @@
+{
+    "asciimath": "\" \u96fb\u5b501\u500b\u3042\u305f\u308a\u306e\u5bec\u8377\u91cf \"",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": true,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": true
+    },
+    "detection_list": [
+        "is_printed"
+    ],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.0015,
+        "contains_graph": 0.0005,
+        "contains_table": 0.0001,
+        "is_blank": 0.004,
+        "is_inverted": 0,
+        "is_not_math": 0.0191,
+        "is_printed": 0.9943
+    },
+    "latex_confidence": 0.004338085852667113,
+    "latex_confidence_rate": 0.94287109375,
+    "latex_styled": "\\text { \u96fb\u5b501\u500b\u3042\u305f\u308a\u306e\u5bec\u8377\u91cf }",
+    "mathml": "<math><mtext>\u00a0\u96fb\u5b501\u500b\u3042\u305f\u308a\u306e\u5bec\u8377\u91cf\u00a0</mtext></math>",
+    "position": {
+        "height": 23,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 184
+    },
+    "request_id": "55286b57215f20073ae2888619f36027",
+    "text": "\u96fb\u5b501\u500b\u3042\u305f\u308a\u306e\u5bec\u8377\u91cf"
+}

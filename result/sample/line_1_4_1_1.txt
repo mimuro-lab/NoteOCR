@@ -1,0 +1,4 @@
+CU	1	‚¢‚¤)	‚ð	ig	(6	dROAG9	=6	=	‚Ì	
+56	52	3	17	41	51	5	29	83	43	
+\left(L_{1}+(2) \frac{d}{d t} i(t)+\left(R_{1}+R_{2}\right) \dot{i}(\alpha)=0\right.
+0.9462890625

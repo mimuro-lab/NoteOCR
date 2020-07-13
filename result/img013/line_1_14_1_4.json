@@ -1,0 +1,35 @@
+{
+    "asciimath": "A=a_(1)[1-2]",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.0002,
+        "contains_graph": 0.0002,
+        "contains_table": 0.0001,
+        "is_blank": 0.0011,
+        "is_inverted": 0,
+        "is_not_math": 0.0014,
+        "is_printed": 0.0047
+    },
+    "latex_confidence": 0.3386411000198822,
+    "latex_confidence_rate": 0.93994140625,
+    "latex_styled": "A=a_{1}[1-2]",
+    "mathml": "<math><mi>A</mi><mo>=</mo><msub><mi>a</mi><mn>1</mn></msub><mo>[</mo><mn>1</mn><mo>\u2212</mo><mn>2</mn><mo>]</mo></math>",
+    "position": {
+        "height": 51,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 511
+    },
+    "request_id": "15780851682c66557a03e84fc8ef1aca",
+    "text": "$A=a_{1}[1-2]$"
+}

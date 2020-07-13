@@ -1,0 +1,4 @@
+ 	
+95	
+\begin{array}{c}y=-2 x+3 \rightarrow 3=-2 x-y \\ {[x][1]}\end{array}
+0.92578125

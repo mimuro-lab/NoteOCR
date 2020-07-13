@@ -1,0 +1,35 @@
+{
+    "asciimath": "p",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0.0001,
+        "contains_diagram": 0.0016,
+        "contains_graph": 0.0006,
+        "contains_table": 0,
+        "is_blank": 0.2336,
+        "is_inverted": 0.0032,
+        "is_not_math": 0.2396,
+        "is_printed": 0.1613
+    },
+    "latex_confidence": 0.337158203125,
+    "latex_confidence_rate": 0.779296875,
+    "latex_styled": "p",
+    "mathml": "<math><mi>p</mi></math>",
+    "position": {
+        "height": 20,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 93
+    },
+    "request_id": "f5a6f822af67559f4dfa67bf78c75a2f",
+    "text": "$p$"
+}

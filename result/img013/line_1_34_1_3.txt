@@ -1,0 +1,4 @@
+(	が	-	A)・(AX	メ	除	)	=	(fP。-A。	Po	Pz)・(25	gc	多	を	,	7	が	K	5	)	
+91	49	48	26	53	0	73	74	0	0	0	0	0	0	15	0	28	0	41	87	
+\left(P^{\prime}-A\right) \cdot(A \times B)=\left(p_{x}-x_{A}, p_{y}, P_{z}\right) \cdot\left(y_{B} z_{C}, x_{A} z_{1}, x_{A} y_{B}\right)
+0.9794921875

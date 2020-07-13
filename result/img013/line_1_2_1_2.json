@@ -1,0 +1,35 @@
+{
+    "asciimath": "SE11!=",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.002,
+        "contains_graph": 0.0009,
+        "contains_table": 0.0003,
+        "is_blank": 0.0078,
+        "is_inverted": 0,
+        "is_not_math": 0.0083,
+        "is_printed": 0.0097
+    },
+    "latex_confidence": 0.17864171468468631,
+    "latex_confidence_rate": 0.81787109375,
+    "latex_styled": "S E 11 \\neq",
+    "mathml": "<math><mi>S</mi><mi>E</mi><mn>11</mn><mo>\u2260</mo></math>",
+    "position": {
+        "height": 51,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 273
+    },
+    "request_id": "872f219144c18e727160d77203b0e746",
+    "text": "$S E 11 \\neq$"
+}

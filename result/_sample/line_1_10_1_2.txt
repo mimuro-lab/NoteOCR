@@ -1,0 +1,2 @@
+scripts	to	account	for	the	older	version	of	bash	it	provides	and	differences	in	mktemp.)	Windows	is	unknown_	
+90	95	88	80	92	69	93	94	92	75	66	87	76	96	6	92	79	0	

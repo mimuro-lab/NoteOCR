@@ -1,0 +1,35 @@
+{
+    "asciimath": "dp=dquad r^(2)",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.0001,
+        "contains_graph": 0,
+        "contains_table": 0.0001,
+        "is_blank": 0.0016,
+        "is_inverted": 0,
+        "is_not_math": 0.0016,
+        "is_printed": 0.0026
+    },
+    "latex_confidence": 0.14413585426672482,
+    "latex_confidence_rate": 0.89306640625,
+    "latex_styled": "d p=d \\quad r^{2}",
+    "mathml": "<math><mi>d</mi><mi>p</mi><mo>=</mo><mi>d</mi><mspace width=\"1em\" /><msup><mi>r</mi><mn>2</mn></msup></math>",
+    "position": {
+        "height": 61,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 383
+    },
+    "request_id": "8df82ebc9dc19ef0189cb8b0291a0703",
+    "text": "$d p=d \\quad r^{2}$"
+}

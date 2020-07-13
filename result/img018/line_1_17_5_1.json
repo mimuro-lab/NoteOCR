@@ -1,0 +1,35 @@
+{
+    "asciimath": "(a)/(aR)P=(d)/(dR)((V_((B)))/(R))=(2V(R)K-V(B))/(R^(2))...(1)",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0.0001,
+        "contains_diagram": 0.0022,
+        "contains_graph": 0.0013,
+        "contains_table": 0.0009,
+        "is_blank": 0.004,
+        "is_inverted": 0.0001,
+        "is_not_math": 0.004,
+        "is_printed": 0.0708
+    },
+    "latex_confidence": 0.008402792896503739,
+    "latex_confidence_rate": 0.9384765625,
+    "latex_styled": "\\frac{a}{a R} P=\\frac{d}{d R}\\left(\\frac{V_{(B)}}{R}\\right)=\\frac{2 V(R) K-V(B)}{R^{2}} \\ldots(1)",
+    "mathml": "<math><mfrac><mi>a</mi><mrow><mi>a</mi><mi>R</mi></mrow></mfrac><mi>P</mi><mo>=</mo><mfrac><mi>d</mi><mrow><mi>d</mi><mi>R</mi></mrow></mfrac><mo>(</mo><mfrac><mrow><msub><mi>V</mi><mrow><mo>(</mo><mi>B</mi><mo>)</mo></mrow></msub></mrow><mi>R</mi></mfrac><mo>)</mo><mo>=</mo><mfrac><mrow><mn>2</mn><mi>V</mi><mo>(</mo><mi>R</mi><mo>)</mo><mi>K</mi><mo>\u2212</mo><mi>V</mi><mo>(</mo><mi>B</mi><mo>)</mo></mrow><mrow><msup><mi>R</mi><mn>2</mn></msup></mrow></mfrac><mo>\u2026</mo><mo>(</mo><mn>1</mn><mo>)</mo></math>",
+    "position": {
+        "height": 103,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 1143
+    },
+    "request_id": "2fab22730cbe3694f70c4446bff86162",
+    "text": "$\\frac{a}{a R} P=\\frac{d}{d R}\\left(\\frac{V_{(B)}}{R}\\right)=\\frac{2 V(R) K-V(B)}{R^{2}} \\ldots(1)$"
+}

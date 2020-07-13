@@ -9,8 +9,8 @@ import sys
 
 if __name__ == '__main__':
 
-    #inputImage = os.path.join("resource", sys.argv[1])
-    inputImage = os.path.join("resource", "00_tes.jpg")
+    inputImage = os.path.join("resource", sys.argv[1])
+    #inputImage = os.path.join("resource", "00_tes.jpg")
     imageName = os.path.splitext(os.path.basename(inputImage))[0]
     print(imageName)
 
@@ -38,14 +38,17 @@ if __name__ == '__main__':
     
     # Contentで分ける
     content = divideContent(tsv.contentOfTsv)
-    content.writeLineContent()
+    #content.writePageContent(outputFolder)
+    #content.writeBlockContent(outputFolder)
+    #content.writeParContent(outputFolder)
+    #content.writeLineContent(outputFolder)
 
     # 切り取り画像の設定
     trim = trimImage(inputImage)
 
-    trim.trimming(rayout.page, outputFolder, "page_")
+    #trim.trimming(rayout.page, outputFolder, "page_")
     #trim.trimming(rayout.block, outputFolder, "block_")
     #trim.trimming(rayout.par, outputFolder, "par_")
-    trim.trimming(rayout.line, outputFolder, "line_")
+    #trim.trimming(rayout.line, outputFolder, "line_")
 
 

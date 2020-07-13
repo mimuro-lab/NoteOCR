@@ -1,0 +1,22 @@
+{
+    "detection_list": [
+        "is_blank",
+        "is_not_math"
+    ],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.0014,
+        "contains_graph": 0.0003,
+        "contains_table": 0.0003,
+        "is_blank": 0.5991,
+        "is_inverted": 0.0008,
+        "is_not_math": 0.5991,
+        "is_printed": 0.3098
+    },
+    "error": "Content not found",
+    "error_info": {
+        "id": "image_no_content",
+        "message": "Content not found"
+    },
+    "request_id": "a8ed67a68b0e169577049c631e68c234"
+}

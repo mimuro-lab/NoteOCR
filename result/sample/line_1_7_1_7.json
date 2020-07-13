@@ -1,0 +1,35 @@
+{
+    "asciimath": "L_(1)(E)/(k_(1))-L_(2)(k)/(F_(2))=(L_(1)+l_(2))i_(1)*+1",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0,
+        "contains_graph": 0,
+        "contains_table": 0,
+        "is_blank": 0.0005,
+        "is_inverted": 0,
+        "is_not_math": 0.0005,
+        "is_printed": 0.0021
+    },
+    "latex_confidence": 0.006411324759330454,
+    "latex_confidence_rate": 0.9326171875,
+    "latex_styled": "L_{1} \\frac{E}{k_{1}}-L_{2} \\frac{k}{F_{2}}=\\left(L_{1}+l_{2}\\right) i_{1} \\cdot+1",
+    "mathml": "<math><msub><mi>L</mi><mn>1</mn></msub><mfrac><mi>E</mi><mrow><msub><mi>k</mi><mn>1</mn></msub></mrow></mfrac><mo>\u2212</mo><msub><mi>L</mi><mn>2</mn></msub><mfrac><mi>k</mi><mrow><msub><mi>F</mi><mn>2</mn></msub></mrow></mfrac><mo>=</mo><mo>(</mo><msub><mi>L</mi><mn>1</mn></msub><mo>+</mo><msub><mi>l</mi><mn>2</mn></msub><mo>)</mo><msub><mi>i</mi><mn>1</mn></msub><mo>\u22c5</mo><mo>+</mo><mn>1</mn></math>",
+    "position": {
+        "height": 34,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 272
+    },
+    "request_id": "a3f167fd0eaa62bc1fda9073231cb00c",
+    "text": "$L_{1} \\frac{E}{k_{1}}-L_{2} \\frac{k}{F_{2}}=\\left(L_{1}+l_{2}\\right) i_{1} \\cdot+1$"
+}

@@ -1,0 +1,35 @@
+{
+    "asciimath": "\" \u51fa\u5e2d\u756a\u53f7 \"5111",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": true
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.0007,
+        "contains_graph": 0.0005,
+        "contains_table": 0.0008,
+        "is_blank": 0.0083,
+        "is_inverted": 0.0005,
+        "is_not_math": 0.0127,
+        "is_printed": 0.0515
+    },
+    "latex_confidence": 0.019769602573091495,
+    "latex_confidence_rate": 0.92919921875,
+    "latex_styled": "\\text { \u51fa\u5e2d\u756a\u53f7 } 5111",
+    "mathml": "<math><mtext>\u00a0\u51fa\u5e2d\u756a\u53f7\u00a0</mtext><mn>5111</mn></math>",
+    "position": {
+        "height": 113,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 1706
+    },
+    "request_id": "0bd05c6938b9b011a04c7d7e4905a83e",
+    "text": "\u51fa\u5e2d\u756a\u53f7 5111"
+}

@@ -1,0 +1,35 @@
+{
+    "asciimath": "(L_(1)+L_(2))(1)/(x+1)i(t)+(R_(1)+R_(2)),i(t)=0",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0,
+        "contains_graph": 0,
+        "contains_table": 0,
+        "is_blank": 0.0005,
+        "is_inverted": 0,
+        "is_not_math": 0.0005,
+        "is_printed": 0.0035
+    },
+    "latex_confidence": 0.2509694083868591,
+    "latex_confidence_rate": 0.97607421875,
+    "latex_styled": "\\left(L_{1}+L_{2}\\right) \\frac{1}{x+1} i(t)+\\left(R_{1}+R_{2}\\right), i(t)=0",
+    "mathml": "<math><mo>(</mo><msub><mi>L</mi><mn>1</mn></msub><mo>+</mo><msub><mi>L</mi><mn>2</mn></msub><mo>)</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mi>i</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>+</mo><mo>(</mo><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub><mo>)</mo><mo separator=\"true\">,</mo><mi>i</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mn>0</mn></math>",
+    "position": {
+        "height": 27,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 330
+    },
+    "request_id": "0bb205718bc8eabe6229999041cd786b",
+    "text": "$\\left(L_{1}+L_{2}\\right) \\frac{1}{x+1} i(t)+\\left(R_{1}+R_{2}\\right), i(t)=0$"
+}

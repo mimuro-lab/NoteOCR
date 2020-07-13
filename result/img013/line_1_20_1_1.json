@@ -1,0 +1,35 @@
+{
+    "asciimath": "H=(1)/(sqrt(5))[1-2]",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.0009,
+        "contains_graph": 0.0003,
+        "contains_table": 0.0001,
+        "is_blank": 0.0269,
+        "is_inverted": 0.0002,
+        "is_not_math": 0.0269,
+        "is_printed": 0.3131
+    },
+    "latex_confidence": 0.31332208846176823,
+    "latex_confidence_rate": 0.95849609375,
+    "latex_styled": "H=\\frac{1}{\\sqrt{5}}[1-2]",
+    "mathml": "<math><mi>H</mi><mo>=</mo><mfrac><mn>1</mn><mrow><msqrt><mrow><mn>5</mn></mrow></msqrt></mrow></mfrac><mo>[</mo><mn>1</mn><mo>\u2212</mo><mn>2</mn><mo>]</mo></math>",
+    "position": {
+        "height": 122,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 2086
+    },
+    "request_id": "adecec44bdea6f582bada3fe33b98caa",
+    "text": "$H=\\frac{1}{\\sqrt{5}}[1-2]$"
+}

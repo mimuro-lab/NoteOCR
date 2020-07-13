@@ -1,0 +1,35 @@
+{
+    "asciimath": "(1)/(sqrt(5))[1-2]",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.001,
+        "contains_graph": 0.0005,
+        "contains_table": 0.0001,
+        "is_blank": 0.0032,
+        "is_inverted": 0,
+        "is_not_math": 0.0032,
+        "is_printed": 0.0003
+    },
+    "latex_confidence": 0.9541088777503334,
+    "latex_confidence_rate": 0.9970703125,
+    "latex_styled": "\\frac{1}{\\sqrt{5}}[1-2]",
+    "mathml": "<math><mfrac><mn>1</mn><mrow><msqrt><mrow><mn>5</mn></mrow></msqrt></mrow></mfrac><mo>[</mo><mn>1</mn><mo>\u2212</mo><mn>2</mn><mo>]</mo></math>",
+    "position": {
+        "height": 112,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 334
+    },
+    "request_id": "e43910b72135353a82aff7728d57e062",
+    "text": "$\\frac{1}{\\sqrt{5}}[1-2]$"
+}

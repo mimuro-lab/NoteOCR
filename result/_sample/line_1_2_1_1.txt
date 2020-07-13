@@ -1,0 +1,2 @@
+tsseractocr	ogd-tain	kmnist	
+1	60	0	

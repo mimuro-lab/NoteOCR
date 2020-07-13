@@ -1,0 +1,35 @@
+{
+    "asciimath": "=P_(X)(Y_(BZC))+P_(g)(X_(A)Z_(C))+P_(z)(X_(A)Y_(B))-X_(A)Y_(B)z_(C)=0",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.0016,
+        "contains_graph": 0.0007,
+        "contains_table": 0.0011,
+        "is_blank": 0.0164,
+        "is_inverted": 0.0001,
+        "is_not_math": 0.0164,
+        "is_printed": 0.1561
+    },
+    "latex_confidence": 0.009679813010725074,
+    "latex_confidence_rate": 0.947265625,
+    "latex_styled": "=P_{X}\\left(Y_{B Z C}\\right)+P_{g}\\left(X_{A} Z_{C}\\right)+P_{z}\\left(X_{A} Y_{B}\\right)-X_{A} Y_{B} z_{C}=0",
+    "mathml": "<math><mo>=</mo><msub><mi>P</mi><mi>X</mi></msub><mo>(</mo><msub><mi>Y</mi><mrow><mi>B</mi><mi>Z</mi><mi>C</mi></mrow></msub><mo>)</mo><mo>+</mo><msub><mi>P</mi><mi>g</mi></msub><mo>(</mo><msub><mi>X</mi><mi>A</mi></msub><msub><mi>Z</mi><mi>C</mi></msub><mo>)</mo><mo>+</mo><msub><mi>P</mi><mi>z</mi></msub><mo>(</mo><msub><mi>X</mi><mi>A</mi></msub><msub><mi>Y</mi><mi>B</mi></msub><mo>)</mo><mo>\u2212</mo><msub><mi>X</mi><mi>A</mi></msub><msub><mi>Y</mi><mi>B</mi></msub><msub><mi>z</mi><mi>C</mi></msub><mo>=</mo><mn>0</mn></math>",
+    "position": {
+        "height": 65,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 1509
+    },
+    "request_id": "3456ccf9b9ccd816f28b31c15ac71369",
+    "text": "$=P_{X}\\left(Y_{B Z C}\\right)+P_{g}\\left(X_{A} Z_{C}\\right)+P_{z}\\left(X_{A} Y_{B}\\right)-X_{A} Y_{B} z_{C}=0$"
+}

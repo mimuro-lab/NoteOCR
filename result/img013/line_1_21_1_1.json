@@ -1,0 +1,35 @@
+{
+    "asciimath": "sqrt(5)",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0.0001,
+        "contains_diagram": 0.0007,
+        "contains_graph": 0.0002,
+        "contains_table": 0.0001,
+        "is_blank": 0.3027,
+        "is_inverted": 0.0008,
+        "is_not_math": 0.3027,
+        "is_printed": 0.0289
+    },
+    "latex_confidence": 0.9721944268094376,
+    "latex_confidence_rate": 0.9951171875,
+    "latex_styled": "\\sqrt{5}",
+    "mathml": "<math><msqrt><mrow><mn>5</mn></mrow></msqrt></math>",
+    "position": {
+        "height": 123,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 2082
+    },
+    "request_id": "66fe90d0909288d244216288ebd678c6",
+    "text": "$\\sqrt{5}$"
+}

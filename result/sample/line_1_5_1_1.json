@@ -1,0 +1,37 @@
+{
+    "asciimath": "[\" If \"],[\" - \"(R_(1)+R_(2))/(L_(1)+L_(2))],[qquad [8],[hline]]",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [
+        "is_printed"
+    ],
+    "detection_map": {
+        "contains_chart": 0.0009,
+        "contains_diagram": 0.332,
+        "contains_graph": 0.2611,
+        "contains_table": 0.2632,
+        "is_blank": 0.0054,
+        "is_inverted": 0,
+        "is_not_math": 0.0059,
+        "is_printed": 0.5321
+    },
+    "latex_confidence": 0.000499673111241133,
+    "latex_confidence_rate": 0.9208984375,
+    "latex_styled": "\\begin{array}{l}\\text { If } \\\\ \\text { - } \\frac{R_{1}+R_{2}}{L_{1}+L_{2}} \\\\ \\qquad \\begin{array}{l}8 \\\\ \\hline\\end{array}\\end{array}",
+    "mathml": "<math><mtable columnalign=\"left\"><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mtext>\u00a0If\u00a0</mtext></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mtext>\u00a0-\u00a0</mtext><mfrac><mrow><msub><mi>R</mi><mn>1</mn></msub><mo>+</mo><msub><mi>R</mi><mn>2</mn></msub></mrow><mrow><msub><mi>L</mi><mn>1</mn></msub><mo>+</mo><msub><mi>L</mi><mn>2</mn></msub></mrow></mfrac></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mspace width=\"2em\" /><mtable columnalign=\"left\"><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mn>8</mn></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mi>hline</mi></mstyle></mtd></mtr></mtable></mstyle></mtd></mtr></mtable></math>",
+    "position": {
+        "height": 208,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 464
+    },
+    "request_id": "be4ddf2b3a80395c6331f5e398090d79",
+    "text": "If\n- $\\frac{R_{1}+R_{2}}{L_{1}+L_{2}}$\n\\[$\\begin{tabular}{l}8 \\\\ \\hline\\end{tabular} \\]"
+}

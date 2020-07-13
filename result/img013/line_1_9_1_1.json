@@ -1,0 +1,35 @@
+{
+    "asciimath": "[y=-2x+3rarr3=-2x-y],[[x][1]]",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0.0001,
+        "contains_diagram": 0.0012,
+        "contains_graph": 0.0004,
+        "contains_table": 0.0002,
+        "is_blank": 0.4605,
+        "is_inverted": 0.0025,
+        "is_not_math": 0.4605,
+        "is_printed": 0.0154
+    },
+    "latex_confidence": 0.02788589336889874,
+    "latex_confidence_rate": 0.92578125,
+    "latex_styled": "\\begin{array}{c}y=-2 x+3 \\rightarrow 3=-2 x-y \\\\ {[x][1]}\\end{array}",
+    "mathml": "<math><mtable columnalign=\"center\"><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mi>y</mi><mo>=</mo><mo>\u2212</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>\u2192</mo><mn>3</mn><mo>=</mo><mo>\u2212</mo><mn>2</mn><mi>x</mi><mo>\u2212</mo><mi>y</mi></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mo>[</mo><mi>x</mi><mo>]</mo><mo>[</mo><mn>1</mn><mo>]</mo></mstyle></mtd></mtr></mtable></math>",
+    "position": {
+        "height": 123,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 2068
+    },
+    "request_id": "c76510209b162c317da92118ff167338",
+    "text": "$y=-2 x+3 \\rightarrow 3=-2 x-y$\n$[x][1]$"
+}

@@ -1,0 +1,38 @@
+{
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": true,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": true
+    },
+    "detection_list": [
+        "is_printed"
+    ],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.1448,
+        "contains_graph": 0.0601,
+        "contains_table": 0.0152,
+        "is_blank": 0.0016,
+        "is_inverted": 0,
+        "is_not_math": 0.0132,
+        "is_printed": 0.9978
+    },
+    "error": "Sorry, we had trouble with that one. Please try again.",
+    "error_info": {
+        "id": "math_syntax",
+        "message": "Cannot parse math"
+    },
+    "latex_confidence": 6.035851089864709e-16,
+    "latex_confidence_rate": 0.9140625,
+    "position": {
+        "height": 254,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 437
+    },
+    "request_id": "af8f45beac12f73c3d3e57abd477e620"
+}

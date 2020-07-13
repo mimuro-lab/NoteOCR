@@ -1,0 +1,35 @@
+{
+    "asciimath": "-2a_(1)-a_(2)=0",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.0001,
+        "contains_graph": 0,
+        "contains_table": 0,
+        "is_blank": 0.0009,
+        "is_inverted": 0,
+        "is_not_math": 0.0009,
+        "is_printed": 0.0013
+    },
+    "latex_confidence": 0.9965834617614746,
+    "latex_confidence_rate": 1,
+    "latex_styled": "-2 a_{1}-a_{2}=0",
+    "mathml": "<math><mo>\u2212</mo><mn>2</mn><msub><mi>a</mi><mn>1</mn></msub><mo>\u2212</mo><msub><mi>a</mi><mn>2</mn></msub><mo>=</mo><mn>0</mn></math>",
+    "position": {
+        "height": 36,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 347
+    },
+    "request_id": "64558fa009246ccf2c94ce9f975d27b4",
+    "text": "$-2 a_{1}-a_{2}=0$"
+}

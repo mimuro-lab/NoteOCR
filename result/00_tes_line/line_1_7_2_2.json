@@ -1,0 +1,35 @@
+{
+    "asciimath": "x rarr",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0.0012,
+        "contains_diagram": 0.0214,
+        "contains_graph": 0.0095,
+        "contains_table": 0.0017,
+        "is_blank": 0.0169,
+        "is_inverted": 0.009,
+        "is_not_math": 0.0169,
+        "is_printed": 0.0354
+    },
+    "latex_confidence": 0.13335842289961874,
+    "latex_confidence_rate": 0.681640625,
+    "latex_styled": "x \\rightarrow",
+    "mathml": "<math><mi>x</mi><mo>\u2192</mo></math>",
+    "position": {
+        "height": 24,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 141
+    },
+    "request_id": "928e91a446bc52ce9ff3293cd809aea9",
+    "text": "$x \\rightarrow$"
+}

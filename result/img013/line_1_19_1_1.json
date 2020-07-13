@@ -1,0 +1,35 @@
+{
+    "asciimath": "+-0",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.0029,
+        "contains_graph": 0.0018,
+        "contains_table": 0,
+        "is_blank": 0.0817,
+        "is_inverted": 0.0022,
+        "is_not_math": 0.0826,
+        "is_printed": 0.1623
+    },
+    "latex_confidence": 0.96728515625,
+    "latex_confidence_rate": 0.99169921875,
+    "latex_styled": "\\pm 0",
+    "mathml": "<math><mo>\u00b1</mo><mn>0</mn></math>",
+    "position": {
+        "height": 47,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 86
+    },
+    "request_id": "5786dda558e87302c1902f88a429fa2d",
+    "text": "\u00b10"
+}

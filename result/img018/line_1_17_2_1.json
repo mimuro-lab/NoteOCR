@@ -1,0 +1,35 @@
+{
+    "asciimath": "(a)/(dR)P=(d)/(dR)((V)/(R))",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0,
+        "contains_graph": 0,
+        "contains_table": 0,
+        "is_blank": 0.0005,
+        "is_inverted": 0,
+        "is_not_math": 0.0005,
+        "is_printed": 0.0003
+    },
+    "latex_confidence": 0.7196691030211289,
+    "latex_confidence_rate": 0.98974609375,
+    "latex_styled": "\\frac{a}{d R} P=\\frac{d}{d R}\\left(\\frac{V}{R}\\right)",
+    "mathml": "<math><mfrac><mi>a</mi><mrow><mi>d</mi><mi>R</mi></mrow></mfrac><mi>P</mi><mo>=</mo><mfrac><mi>d</mi><mrow><mi>d</mi><mi>R</mi></mrow></mfrac><mo>(</mo><mfrac><mi>V</mi><mi>R</mi></mfrac><mo>)</mo></math>",
+    "position": {
+        "height": 91,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 439
+    },
+    "request_id": "30a75980f449cba0c39a8725b6a850b5",
+    "text": "$\\frac{a}{d R} P=\\frac{d}{d R}\\left(\\frac{V}{R}\\right)$"
+}

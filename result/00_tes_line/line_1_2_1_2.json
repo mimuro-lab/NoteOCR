@@ -1,0 +1,35 @@
+{
+    "asciimath": "=-1.602times10^(-19)(C)",
+    "detected_alphabets": {
+        "en": true,
+        "hi": false,
+        "ja": false,
+        "ko": false,
+        "ru": false,
+        "th": false,
+        "zh": false
+    },
+    "detection_list": [],
+    "detection_map": {
+        "contains_chart": 0,
+        "contains_diagram": 0.0002,
+        "contains_graph": 0.0002,
+        "contains_table": 0.0001,
+        "is_blank": 0.0005,
+        "is_inverted": 0,
+        "is_not_math": 0.0005,
+        "is_printed": 0.0578
+    },
+    "latex_confidence": 0.4790773515281495,
+    "latex_confidence_rate": 0.97314453125,
+    "latex_styled": "=-1.602 \\times 10^{-19}(C)",
+    "mathml": "<math><mo>=</mo><mo>\u2212</mo><mn>1.602</mn><mo>\u00d7</mo><msup><mn>10</mn><mrow><mo>\u2212</mo><mn>19</mn></mrow></msup><mo>(</mo><mi>C</mi><mo>)</mo></math>",
+    "position": {
+        "height": 26,
+        "top_left_x": 0,
+        "top_left_y": 0,
+        "width": 255
+    },
+    "request_id": "b1bdf39eab1c41a54453dc9245c8d229",
+    "text": "$=-1.602 \\times 10^{-19}(C)$"
+}

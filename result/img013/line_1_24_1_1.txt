@@ -1,4 +1,2 @@
 AA-	AB	-	(KAÅv	95.0)	,	óp	=	42	=	(Cf	90,	gc)	
 43	75	60	11	29	48	64	40	0	17	18	42	38	
-A=\overrightarrow{A B}=\left(-x_{A}, y_{B}, v\right), \quad B=\overrightarrow{A C}=\left(-x_{A}, 0, z_{c}\right)
-0.9794921875

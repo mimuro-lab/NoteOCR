@@ -1,4 +1,0 @@
-‚ ‚Ü	IT	/:	PR	‚É	
-18	40	0	0	0	
-\frac{a}{a R} P=\frac{d}{d R}\left(\frac{V_{(B)}}{R}\right)=\frac{2 V(R) K-V(B)}{R^{2}} \ldots(1)
-0.9384765625

@@ -1,4 +1,2 @@
  	
 95	
-\left[\begin{array}{ccc}x_{A} & \partial_{B} & 0 \\ x_{A} & 0 & z\end{array}\right]\left[\begin{array}{l}x \\ y \\ z\end{array}\right]=\| p\left(=\left[\begin{array}{c}p_{1} \\ p_{2}\end{array}\right]\right) \quad \begin{array}{l}x \cdot \| y 2 \geqslant k \pi 12 t \delta 3 \\ \dot{x} \cdot p^{\prime}(t 33) \cdot k \approx \pm 0 \quad p(2 \quad / 00\end{array}
-0.900390625

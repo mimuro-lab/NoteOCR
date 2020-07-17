@@ -40,15 +40,15 @@ if __name__ == '__main__':
     content = divideContent(tsv.contentOfTsv)
     #content.writePageContent(outputFolder)
     #content.writeBlockContent(outputFolder)
-    #content.writeParContent(outputFolder)
-    #content.writeLineContent(outputFolder)
+    content.writeParContent(outputFolder)
+    content.writeLineContent(outputFolder)
 
     # 切り取り画像の設定
     trim = trimImage(inputImage)
 
     #trim.trimming(rayout.page, outputFolder, "page_")
     #trim.trimming(rayout.block, outputFolder, "block_")
-    #trim.trimming(rayout.par, outputFolder, "par_")
-    #trim.trimming(rayout.line, outputFolder, "line_")
+    trim.trimming(rayout.par, outputFolder, "par_")
+    trim.trimming(rayout.line, outputFolder, "line_")
 
 

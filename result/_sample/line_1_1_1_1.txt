@@ -1,2 +1,0 @@
-kmnist	‚ğ	g‚Á	‚Ä	Tesseract	‚É	LSTM	‚Ì	Ä	ŠwK	‚·	
-92	92	94	96	92	92	91	92	93	92	93	

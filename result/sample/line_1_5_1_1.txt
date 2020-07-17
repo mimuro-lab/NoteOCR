@@ -1,4 +1,0 @@
- 	
-95	
-\begin{array}{l}\text { If } \\ \text { - } \frac{R_{1}+R_{2}}{L_{1}+L_{2}} \\ \qquad \begin{array}{l}8 \\ \hline\end{array}\end{array}
-0.9208984375
